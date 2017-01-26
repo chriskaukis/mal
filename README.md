@@ -25,7 +25,3 @@ or on the command line:
 
 ## Issues & Features
 Of course, if you find a bug or need a feature added please feel free to submit an issue or pull request. I'm extremely eager to make this the best My Anime List API client in the universe (or something like that).
-
-## TODO
-- [ ] Documentation
-- [ ] Command line interface
